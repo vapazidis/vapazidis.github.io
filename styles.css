@@ -1,0 +1,17 @@
+body {
+    background-color: green;
+}
+
+#card {
+    display: block;
+    align-content: center;
+    width: 300px;
+    margin: auto;
+    margin-top: 50px;
+    padding: 10px;
+    background-color: wheat;
+}
+
+#card h1 {
+    text-align: center;
+}
