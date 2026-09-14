@@ -3,15 +3,20 @@
 }
 
 body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100dvh;
+    overflow: hidden;
     background: linear-gradient(to bottom, green, rgb(150, 255, 52));
     background-size: cover;
-    background-repeat: no-repeat;
+    background-repeat:inherit;
 }
 
 #card {
     display: block;
     align-content: center;
     width: 300px;
+    border-radius: 30px;
     margin: auto;
     margin-top: 50px;
     padding: 20px;
