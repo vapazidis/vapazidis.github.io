@@ -23,9 +23,6 @@ html {
     background-color: white;
     outline: 1px #430081 solid;
     box-shadow: 10px 10px 0px 0px #430081;
-}
-
-.card h1, .card p {
     text-align: center;
     color: #430081;
 }
