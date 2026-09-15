@@ -27,6 +27,12 @@ html {
     color: #430081;
 }
 
+.smallcard {
+    width: 200px;
+    height: 200px;
+    padding: 0px;
+}
+
 .headshot {
     border: solid 1px #430081;
     border-radius: 50%;
