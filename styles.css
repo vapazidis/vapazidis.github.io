@@ -2,7 +2,7 @@
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-body {
+html {
     display: flex;
     flex-direction: column;
     min-height: 100dvh;
