@@ -20,14 +20,11 @@ html {
     margin: auto;
     margin-top: 50px;
     padding: 20px;
-    background-color: blueviolet;
+    background-color: white;
+    outline: 4px #430081 dashed;
 }
 
-#card h1 {
+#card h1, #card p {
     text-align: center;
-    color: white;
-}
-
-#card p {
-    color: white;
+    color: #430081;
 }
