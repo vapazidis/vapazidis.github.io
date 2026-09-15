@@ -3,13 +3,7 @@
 }
 
 html {
-    display: flex;
-    flex-direction: column;
-    min-height: 100dvh;
-    overflow: hidden;
-    background: white;
-    background-size: cover;
-    background-repeat:inherit;
+    background: lavender;
 }
 
 .card {
