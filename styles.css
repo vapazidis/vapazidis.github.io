@@ -26,3 +26,12 @@ html {
     text-align: center;
     color: #430081;
 }
+
+.headshot {
+    border: solid 1px #430081;
+    border-radius: 50%;
+}
+
+figcaption {
+    font-weight: 700;
+}
