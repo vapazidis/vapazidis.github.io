@@ -39,6 +39,10 @@ html {
     padding: 0px;
 }
 
+ul {
+    text-align: left;
+}
+
 .headshot {
     border: solid 1px #430081;
     border-radius: 50%;
