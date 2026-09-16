@@ -23,6 +23,7 @@ html {
 .card {
     display: block;
     width: 300px;
+    max-height: fit-content;
     border-radius: 30px;
     margin: 10px;
     padding: 20px;
@@ -30,12 +31,13 @@ html {
     outline: 1px #430081 solid;
     box-shadow: 10px 10px 0px 0px #430081;
     text-align: center;
+    word-wrap: break-word;
     color: #430081;
 }
 
 .smallcard {
     width: 200px;
-    height: 200px;
+    min-height: 200px;
     padding: 0px;
 }
 
