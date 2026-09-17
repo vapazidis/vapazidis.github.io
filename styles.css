@@ -35,6 +35,10 @@ html {
     color: #430081;
 }
 
+.card p {
+    text-align: left;
+}
+
 .smallcard {
     width: 200px;
     min-height: 200px;
