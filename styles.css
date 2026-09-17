@@ -45,6 +45,10 @@ ul {
     text-align: left;
 }
 
+.contact {
+    font-size: x-small;
+}
+
 .headshot {
     border: solid 1px #430081;
     border-radius: 50%;
