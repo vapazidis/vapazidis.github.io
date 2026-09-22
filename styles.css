@@ -2,10 +2,6 @@
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-html {
-    background: lavender;
-}
-
 .cardhold {
     display: flex;
     justify-content: center;
@@ -27,12 +23,8 @@ html {
     border-radius: 30px;
     margin: 10px;
     padding: 20px;
-    background-color: white;
-    outline: 1px #430081 solid;
-    box-shadow: 10px 10px 0px 0px #430081;
     text-align: center;
     word-wrap: break-word;
-    color: #430081;
 }
 
 .card p {
@@ -47,17 +39,4 @@ html {
 
 ul {
     text-align: left;
-}
-
-.contact {
-    font-size: x-small;
-}
-
-.headshot {
-    border: solid 1px #430081;
-    border-radius: 50%;
-}
-
-figcaption {
-    font-weight: 700;
 }
